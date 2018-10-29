@@ -45,4 +45,4 @@ def check(data):
 
 
 print(check('((()))'))
-print(check('(()'))
+print(check('((()'))
